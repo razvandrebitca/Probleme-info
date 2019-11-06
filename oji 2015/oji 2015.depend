@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521107336 source:c:\users\elev\desktop\10b\oji 2015\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

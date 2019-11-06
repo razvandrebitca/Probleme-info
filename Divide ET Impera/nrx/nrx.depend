@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1521455826 source:c:\users\elev\desktop\10b\nrx\main.cpp
+	<iostream>
+
+1521456049 source:c:\users\elev\desktop\10b\nrx\src\dei.cpp
+	"DEI.h"
+
+1521456049 c:\users\elev\desktop\10b\nrx\include\dei.h
+
